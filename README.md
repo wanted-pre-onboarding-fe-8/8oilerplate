@@ -43,8 +43,8 @@ yarn start
 
 ## 3. 핵심 라이브러리
 
-번들러: webpack
-트랜스파일러: typescript, babel
-프레임워크: react
-스타일: styled-component
+번들러: webpack  
+트랜스파일러: typescript, babel  
+프레임워크: react  
+스타일: styled-component  
 코드 포매팅: eslint, prettier
